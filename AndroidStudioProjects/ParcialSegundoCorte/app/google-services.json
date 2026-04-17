@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168940302642",
+    "project_id": "gamezone-9f24f",
+    "storage_bucket": "gamezone-9f24f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168940302642:android:a0f5fc7606ffd8a7dee72b",
+        "android_client_info": {
+          "package_name": "com.example.parcialsegundocorte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSu56FmtpDVT-2DvzBW_FFjLuPubQ07Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
